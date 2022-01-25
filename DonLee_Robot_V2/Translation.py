@@ -11,7 +11,7 @@ class Text(object):
 🙂𝖳𝗈 𝖻𝗎𝗂𝗅𝖽 𝖺 𝖣𝗈𝗇𝖫𝖾𝖾 𝗋𝗈𝖻𝗈𝗍 𝖵2 𝗅𝗂𝗄𝖾 𝗆𝖾, 𝖼𝗅𝗂𝖼𝗄 𝗈𝗇 𝗍𝗁𝖾 /sub 𝖼𝗈𝗆𝗆𝖺𝗇𝖽
 𝖲𝗎𝖻𝗌𝖼𝗋𝗂𝖻𝖾 𝗍𝗈 𝗍𝗁𝖾 𝗎𝗉𝖽𝖺𝗍𝖾 𝖼𝗁𝖺𝗇𝗇𝖾𝗅 𝗍𝗈 𝗅𝖾𝖺𝗋𝗇 𝖺𝖻𝗈𝗎𝗍 𝗆𝗒 𝗎𝗉𝖽𝖺𝗍𝖾𝗌 𝖺𝗇𝖽 𝖺𝖼𝗍𝗂𝗏𝗂𝗍𝗒...
 𝖢𝗅𝗂𝖼𝗄 𝗈𝗇 𝗍𝗁𝖾 𝖧𝖾𝗅𝗉 /help 𝖻𝗎𝗍𝗍𝗈𝗇 𝖿𝗈𝗋 𝗆𝗈𝗋𝖾 𝗂𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇
-🧒 𝖬𝖺𝗂𝗇𝗍𝖺𝗂𝗇𝖾𝖽 𝖡𝗒 <a href="https://t.me/Mrk_yt">𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a> & <a href="tg://user?id={}">𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>       
+🧒 𝖬𝖺𝗂𝗇𝗍𝖺𝗂𝗇𝖾𝖽 𝖡𝗒 <a href="https://t.me/cristow666">𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a> & <a href="tg://user?id={}">𝖳𝗁𝗂𝗌 𝖯𝖾𝗋𝗌𝗈𝗇</a>       
 """
     HELP_TEXT = """
 <b><u>𝖡𝖠𝖲𝖨𝖢 𝖢𝖮𝖬𝖬𝖠𝖭𝖣𝖲</u></b>
@@ -26,8 +26,8 @@ class Text(object):
 - 𝖠𝗇𝖽 𝗍𝗁𝖾 𝖿𝗈𝗅𝗅𝗈𝗐𝗂𝗇𝗀
 """
     ABOUT_TEXT = """
-📃 𝖡𝗈𝗍 : <a href="t.me/{}">𝖣𝗈𝗇𝖫𝖾𝖾 𝖱𝗈𝖻𝗈𝗍 V2</a>
-🧒 𝖣𝖾𝗏 : <a href="t.me/Mrk_yt">𝖬𝗎𝗁𝖺𝗆𝗆𝖾𝖽</a>
+📃 𝖡𝗈𝗍 : <a href="t.me/{}">മംഗലശ്ശേരി നീലകണ്ഠൻ</a>
+🧒 𝖣𝖾𝗏 : <a href="t.me/cristow666">Cristow</a>
 🧒 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href="tg://user?id={}">{}</a>
 🗣️ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : <a href="https://docs.pyrogram.org">𝖯𝗒𝗍𝗁𝗈𝗇3</a>
 📚 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : <a href="https://docs.pyrogram.org">𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖠𝗌𝗒𝗇𝖼𝗂𝗈 1.13.0</a>
@@ -42,7 +42,7 @@ class Text(object):
 𝖦𝗈 𝗊𝗎𝗂𝖼𝗄𝗅𝗒 𝖺𝗇𝖽 𝗉𝗂𝖼𝗄 𝗂𝗍 𝗎𝗉
 
 📢 𝖴𝗉𝖽𝖺𝗍𝖾 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 : <a href="t.me/Mo_Tech_Group">𝖬𝗈 𝖳𝖾𝖼𝗁 𝖦𝗋𝗈𝗎𝗉</a>
-🎗️ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/Mo_Tech_YT">𝖬𝗈𝖳𝖾𝖼𝗁 𝖢𝗁𝖺𝗇𝗇𝖾𝗅</a>
+🎗️ 𝖲𝗎𝗉𝗉𝗈𝗋𝗍 𝖦𝗋𝗈𝗎𝗉 : <a href="t.me/Televisionmarket">🐽ᴛᴇʟᴇᴠɪsɪᴏɴ ᴍᴀʀᴋᴇᴛ🐽</a>
 ➡️ 𝖵𝗂𝖽𝖾𝗈 𝖫𝗂𝗇𝗄 : <a href="https://youtu.be/NrbMc93aCzA">𝖶𝖺𝗍𝖼𝗁 𝖵𝗂𝖽𝖾𝗈</a>
 """
     FORCE_SUB_TEXT = """
