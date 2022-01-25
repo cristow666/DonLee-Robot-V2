@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/PR0FESS0R-99/DonLee-Robot-V2/blob/Professor-99/DONLEE-ROBOT-V2/DonLee_Robot.jpg" alt="DonLeeLogo">
+<img src="https://telegra.ph/file/38ff8bb6c30fff87e091b.jpg" alt="DonLeeLogo">
 </p>
 
 <p align="center">
